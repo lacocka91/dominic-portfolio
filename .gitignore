@@ -1,0 +1,15 @@
+# Lokale Vorschau und Prüfergebnisse (kein Bestandteil der Website)
+.local/
+node_modules/
+*.log
+
+# Editor- und Betriebssystemdateien
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Lokale Konfiguration und Zugangsdaten
+.env
+.env.*
